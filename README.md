@@ -1,2 +1,3 @@
 # Piano
-Piano Learning
+Tittle: "Piano Learning"
+This is a Piano Learning record.
